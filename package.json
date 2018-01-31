@@ -1,0 +1,22 @@
+{
+  "name": "es-modules-demo",
+  "version": "0.0.1",
+  "description": "js import works in browsers",
+  "license": "MIT",
+  "repository": "inside-demo/es-modules-demo",
+  "author": {
+    "name": "Vladimir Rodkin",
+    "email": "mail@vovanr.com",
+    "url": "https://github.com/VovanR"
+  },
+  "scripts": {
+  },
+  "keywords": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+  }
+}
